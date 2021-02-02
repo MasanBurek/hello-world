@@ -1,2 +1,2 @@
 # hello-world
-Test repository, za upoznavanje sa GitHub oruženjem
+Test repository, za upoznavanje sa GitHub okruženjem
